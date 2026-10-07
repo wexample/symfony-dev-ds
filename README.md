@@ -2,9 +2,16 @@
 
 Version: 1.0.1
 
+`wexample/symfony-dev-ds` is the design-system side of `wexample/symfony-dev`, registered in the `dev` and `test` environments like it. It adds one entry to the development menu of `symfony-design-system`: « reload the demonstration data », which posts to `symfony-dev`'s `dev_seed` route.
+
+The entry sits at the end of the account actions. It is absent when the application declares no `SeederInterface` or does not import `@WexampleSymfonyDevBundle/Resources/config/routes.yaml`; it is shown disabled while nobody is signed in; otherwise it asks for confirmation, holds the page under a spinner while the database is filled, and lands on the sign-in, since the accounts were replaced too.
+
+Its labels are translation keys of `assets/common/dev_menu.trans.yml`, in English and French.
+
 ## Table of Contents
 
 - [Integration in the Suite](#integration-in-the-suite)
+- [Dependencies](#dependencies)
 - [Versioning & Compatibility Policy](#versioning--compatibility-policy)
 - [License](#license)
 - [About us](#about-us)
@@ -19,6 +26,14 @@ This package is part of the Wexample Suite — a collection of high-quality, mod
 The suite includes packages for configuration management, file handling, prompts, and more. Each package can be used independently or as part of the integrated suite.
 
 Visit the [Wexample Suite documentation](https://docs.wexample.com) for the complete package ecosystem.
+
+## Dependencies
+
+- php: >=8.5
+- wexample/symfony-design-system: >=31.0.0
+- wexample/symfony-dev: >=4.0.0
+- wexample/symfony-helpers: >=15.0.0
+- wexample/symfony-loader: >=21.0.0
 
 ## Versioning & Compatibility Policy
 

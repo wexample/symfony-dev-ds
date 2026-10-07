@@ -1,0 +1,15 @@
+en:
+  seed:
+    label: Reload the demonstration data
+    confirm:
+      title: Reload the demonstration data
+      message: Everything is emptied and written again, the accounts included — you will be signed out.
+      accept: Reload
+
+fr:
+  seed:
+    label: Recharger les données de démonstration
+    confirm:
+      title: Recharger les données de démonstration
+      message: Tout est vidé puis réécrit, les comptes compris — vous serez déconnecté.
+      accept: Recharger

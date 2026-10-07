@@ -1,11 +1,42 @@
 {
   "name": "wexample/symfony-dev-ds",
+  "description": "Design-system side of symfony-dev: the development menu entry reloading the demonstration data",
   "version": "1.0.1",
   "type": "library",
   "license": "MIT",
   "autoload": {
     "psr-4": {
       "Wexample\\SymfonyDevDs\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "weeger",
+      "email": "romain.weeger@wexample.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.5",
+    "wexample/symfony-design-system": ">=31.0.0",
+    "wexample/symfony-dev": ">=4.0.0",
+    "wexample/symfony-helpers": ">=15.0.0",
+    "wexample/symfony-loader": ">=21.0.0"
+  },
+  "repositories": [
+    {
+      "type": "path",
+      "url": "../*",
+      "options": {
+        "symlink": true
+      }
+    }
+  ],
+  "extra": {
+    "install": {
+      "bundle_env": [
+        "dev",
+        "test"
+      ]
     }
   }
 }
