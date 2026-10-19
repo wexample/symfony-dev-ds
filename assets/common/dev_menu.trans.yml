@@ -13,3 +13,11 @@ fr:
       title: Recharger les données de démonstration
       message: Tout est vidé puis réécrit, les comptes compris — vous serez déconnecté.
       accept: Recharger
+
+zh:
+  seed:
+    label: 重新加载示例数据
+    confirm:
+      title: 重新加载示例数据
+      message: '所有内容将被清空并重新写入，包括账户 — 您将被注销。'
+      accept: 重新加载

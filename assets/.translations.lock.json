@@ -1,0 +1,20 @@
+{
+    "common/dev_menu.zh.yml": {
+        "seed.confirm.accept": {
+            "hash": "8f70df2a7a1437cca534ddcc33c18342",
+            "engine": "syrtis"
+        },
+        "seed.confirm.message": {
+            "hash": "a4024cbb8fcabebdaf9d26b628614666",
+            "engine": "syrtis"
+        },
+        "seed.confirm.title": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        },
+        "seed.label": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        }
+    }
+}
