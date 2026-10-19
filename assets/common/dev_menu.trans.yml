@@ -21,3 +21,163 @@ zh:
       title: 重新加载示例数据
       message: '所有内容将被清空并重新写入，包括账户 — 您将被注销。'
       accept: 重新加载
+
+ar:
+  seed:
+    label: 'إعادة تحميل بيانات العرض'
+    confirm:
+      title: 'إعادة تحميل بيانات العرض'
+      message: 'سيتم إفراغ كل شيء وإعادة كتابته، بما في ذلك الحسابات - ستتم تسجيل خروجك.'
+      accept: 'إعادة تحميل'
+
+hi:
+  seed:
+    label: 'डेमोंस्ट्रेशन डेटा को फिर से लोड करें'
+    confirm:
+      title: 'डेमोंस्ट्रेशन डेटा को फिर से लोड करें'
+      message: 'सब कुछ खाली किया गया है और फिर से लिखा गया है, खातों सहित — आप साइन आउट हो जाएंगे।'
+      accept: 'फिर से लोड करें'
+
+he:
+  seed:
+    label: 'טען מחדש את נתוני ההדגמה'
+    confirm:
+      title: 'טען מחדש את נתוני ההדגמה'
+      message: 'הכל יתאפס וייכתב מחדש, כולל החשבונות — תתנתק.'
+      accept: 'טען מחדש'
+
+fa:
+  seed:
+    label: 'بارگذاری مجدد داده‌های نمایشی'
+    confirm:
+      title: 'بارگذاری مجدد داده‌های نمایشی'
+      message: 'همه چیز خالی و دوباره نوشته می‌شود، از جمله حساب‌ها — شما از حساب کاربری خود خارج خواهید شد.'
+      accept: 'بارگذاری مجدد'
+
+ur:
+  seed:
+    label: 'ڈیموناسٹریشن ڈیٹا دوبارہ لوڈ کریں'
+    confirm:
+      title: 'ڈیموناسٹریشن ڈیٹا دوبارہ لوڈ کریں'
+      message: 'سب کچھ خالی کر دیا گیا ہے اور دوبارہ لکھا جا رہا ہے، اکاؤنٹس بھی شامل ہیں — آپ سائن آؤٹ ہو جائیں گے۔'
+      accept: 'دوبارہ لوڈ کریں'
+
+ja:
+  seed:
+    label: デモデータを再読み込み
+    confirm:
+      title: デモデータを再読み込み
+      message: 'すべてが空になり、アカウントを含めて書き直されます — サインアウトされます。'
+      accept: 再読み込み
+
+ko:
+  seed:
+    label: '데모 데이터를 새로 고침'
+    confirm:
+      title: '데모 데이터를 새로 고침'
+      message: '모든 데이터가 지워지고 다시 작성됩니다. 계정도 포함되어 있으며, 로그아웃됩니다.'
+      accept: '새로 고침'
+
+bn:
+  seed:
+    label: 'ডেমো ডেটা পুনরায় লোড করুন'
+    confirm:
+      title: 'ডেমো ডেটা পুনরায় লোড করুন'
+      message: 'সবকিছু খালি করা হবে এবং আবার লেখা হবে, অ্যাকাউন্টসহ — আপনি সাইন আউট হয়ে যাবেন।'
+      accept: 'পুনরায় লোড করুন'
+
+th:
+  seed:
+    label: โหลดข้อมูลการสาธิตใหม่
+    confirm:
+      title: โหลดข้อมูลการสาธิตใหม่
+      message: 'ทุกอย่างจะถูกล้างและเขียนใหม่ รวมถึงบัญชี — คุณจะออกจากระบบ'
+      accept: โหลดใหม่
+
+de:
+  seed:
+    label: 'Demonstrationsdaten neu laden'
+    confirm:
+      title: 'Demonstrationsdaten neu laden'
+      message: 'Alles wird geleert und neu geschrieben, die Konten inklusive — Sie werden abgemeldet.'
+      accept: 'Neu laden'
+
+fi:
+  seed:
+    label: 'Lataa esittelydata uudelleen'
+    confirm:
+      title: 'Lataa esittelydata uudelleen'
+      message: 'Kaikki tyhjennetään ja kirjoitetaan uudelleen, mukaan lukien tilit — sinut kirjataan ulos.'
+      accept: 'Lataa uudelleen'
+
+ru:
+  seed:
+    label: 'Перезагрузить демонстрационные данные'
+    confirm:
+      title: 'Перезагрузить демонстрационные данные'
+      message: 'Все будет очищено и записано заново, включая учетные записи — вы будете вышены из системы.'
+      accept: Перезагрузить
+
+pl:
+  seed:
+    label: 'Przeładuj dane demonstracyjne'
+    confirm:
+      title: 'Przeładuj dane demonstracyjne'
+      message: 'Wszystko zostanie opróżnione i zapisane na nowo, w tym konta — zostaniesz wylogowany.'
+      accept: Przeładuj
+
+es:
+  seed:
+    label: 'Recargar los datos de demostración'
+    confirm:
+      title: 'Recargar los datos de demostración'
+      message: 'Todo se vacía y se escribe de nuevo, incluidas las cuentas — se cerrará sesión.'
+      accept: Recargar
+
+it:
+  seed:
+    label: 'Ricarica i dati di dimostrazione'
+    confirm:
+      title: 'Ricarica i dati di dimostrazione'
+      message: 'Tutto verrà svuotato e riscritto, compresi gli account — verrai disconnesso.'
+      accept: Ricarica
+
+pt_BR:
+  seed:
+    label: 'Recarregar os dados da demonstração'
+    confirm:
+      title: 'Recarregar os dados da demonstração'
+      message: 'Tudo será esvaziado e reescrito, incluindo as contas — você será desconectado.'
+      accept: Recarregar
+
+tr:
+  seed:
+    label: 'Demonstrasyon verilerini yeniden yükle'
+    confirm:
+      title: 'Demonstrasyon verilerini yeniden yükle'
+      message: 'Her şey boşaltılacak ve tekrar yazılacak, hesaplar dahil — oturumunuz kapatılacak.'
+      accept: 'Yeniden Yükle'
+
+vi:
+  seed:
+    label: 'Tải lại dữ liệu trình diễn'
+    confirm:
+      title: 'Tải lại dữ liệu trình diễn'
+      message: 'Mọi thứ sẽ được xóa và viết lại, bao gồm cả tài khoản — bạn sẽ bị đăng xuất.'
+      accept: 'Tải lại'
+
+id:
+  seed:
+    label: 'Muat ulang data demonstrasi'
+    confirm:
+      title: 'Muat ulang data demonstrasi'
+      message: 'Semua akan dikosongkan dan ditulis ulang, termasuk akun — Anda akan keluar.'
+      accept: 'Muat ulang'
+
+nl:
+  seed:
+    label: 'Herlaad de demonstratiedata'
+    confirm:
+      title: 'Herlaad de demonstratiedata'
+      message: 'Alles wordt leeggemaakt en opnieuw geschreven, inclusief de accounts — je wordt afgemeld.'
+      accept: Herlaad

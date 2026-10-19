@@ -1,4 +1,364 @@
 {
+    "common/dev_menu.ar.yml": {
+        "seed.confirm.accept": {
+            "hash": "8f70df2a7a1437cca534ddcc33c18342",
+            "engine": "syrtis"
+        },
+        "seed.confirm.message": {
+            "hash": "a4024cbb8fcabebdaf9d26b628614666",
+            "engine": "syrtis"
+        },
+        "seed.confirm.title": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        },
+        "seed.label": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        }
+    },
+    "common/dev_menu.bn.yml": {
+        "seed.confirm.accept": {
+            "hash": "8f70df2a7a1437cca534ddcc33c18342",
+            "engine": "syrtis"
+        },
+        "seed.confirm.message": {
+            "hash": "a4024cbb8fcabebdaf9d26b628614666",
+            "engine": "syrtis"
+        },
+        "seed.confirm.title": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        },
+        "seed.label": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        }
+    },
+    "common/dev_menu.de.yml": {
+        "seed.confirm.accept": {
+            "hash": "8f70df2a7a1437cca534ddcc33c18342",
+            "engine": "syrtis"
+        },
+        "seed.confirm.message": {
+            "hash": "a4024cbb8fcabebdaf9d26b628614666",
+            "engine": "syrtis"
+        },
+        "seed.confirm.title": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        },
+        "seed.label": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        }
+    },
+    "common/dev_menu.es.yml": {
+        "seed.confirm.accept": {
+            "hash": "8f70df2a7a1437cca534ddcc33c18342",
+            "engine": "syrtis"
+        },
+        "seed.confirm.message": {
+            "hash": "a4024cbb8fcabebdaf9d26b628614666",
+            "engine": "syrtis"
+        },
+        "seed.confirm.title": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        },
+        "seed.label": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        }
+    },
+    "common/dev_menu.fa.yml": {
+        "seed.confirm.accept": {
+            "hash": "8f70df2a7a1437cca534ddcc33c18342",
+            "engine": "syrtis"
+        },
+        "seed.confirm.message": {
+            "hash": "a4024cbb8fcabebdaf9d26b628614666",
+            "engine": "syrtis"
+        },
+        "seed.confirm.title": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        },
+        "seed.label": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        }
+    },
+    "common/dev_menu.fi.yml": {
+        "seed.confirm.accept": {
+            "hash": "8f70df2a7a1437cca534ddcc33c18342",
+            "engine": "syrtis"
+        },
+        "seed.confirm.message": {
+            "hash": "a4024cbb8fcabebdaf9d26b628614666",
+            "engine": "syrtis"
+        },
+        "seed.confirm.title": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        },
+        "seed.label": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        }
+    },
+    "common/dev_menu.he.yml": {
+        "seed.confirm.accept": {
+            "hash": "8f70df2a7a1437cca534ddcc33c18342",
+            "engine": "syrtis"
+        },
+        "seed.confirm.message": {
+            "hash": "a4024cbb8fcabebdaf9d26b628614666",
+            "engine": "syrtis"
+        },
+        "seed.confirm.title": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        },
+        "seed.label": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        }
+    },
+    "common/dev_menu.hi.yml": {
+        "seed.confirm.accept": {
+            "hash": "8f70df2a7a1437cca534ddcc33c18342",
+            "engine": "syrtis"
+        },
+        "seed.confirm.message": {
+            "hash": "a4024cbb8fcabebdaf9d26b628614666",
+            "engine": "syrtis"
+        },
+        "seed.confirm.title": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        },
+        "seed.label": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        }
+    },
+    "common/dev_menu.id.yml": {
+        "seed.confirm.accept": {
+            "hash": "8f70df2a7a1437cca534ddcc33c18342",
+            "engine": "syrtis"
+        },
+        "seed.confirm.message": {
+            "hash": "a4024cbb8fcabebdaf9d26b628614666",
+            "engine": "syrtis"
+        },
+        "seed.confirm.title": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        },
+        "seed.label": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        }
+    },
+    "common/dev_menu.it.yml": {
+        "seed.confirm.accept": {
+            "hash": "8f70df2a7a1437cca534ddcc33c18342",
+            "engine": "syrtis"
+        },
+        "seed.confirm.message": {
+            "hash": "a4024cbb8fcabebdaf9d26b628614666",
+            "engine": "syrtis"
+        },
+        "seed.confirm.title": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        },
+        "seed.label": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        }
+    },
+    "common/dev_menu.ja.yml": {
+        "seed.confirm.accept": {
+            "hash": "8f70df2a7a1437cca534ddcc33c18342",
+            "engine": "syrtis"
+        },
+        "seed.confirm.message": {
+            "hash": "a4024cbb8fcabebdaf9d26b628614666",
+            "engine": "syrtis"
+        },
+        "seed.confirm.title": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        },
+        "seed.label": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        }
+    },
+    "common/dev_menu.ko.yml": {
+        "seed.confirm.accept": {
+            "hash": "8f70df2a7a1437cca534ddcc33c18342",
+            "engine": "syrtis"
+        },
+        "seed.confirm.message": {
+            "hash": "a4024cbb8fcabebdaf9d26b628614666",
+            "engine": "syrtis"
+        },
+        "seed.confirm.title": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        },
+        "seed.label": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        }
+    },
+    "common/dev_menu.nl.yml": {
+        "seed.confirm.accept": {
+            "hash": "8f70df2a7a1437cca534ddcc33c18342",
+            "engine": "syrtis"
+        },
+        "seed.confirm.message": {
+            "hash": "a4024cbb8fcabebdaf9d26b628614666",
+            "engine": "syrtis"
+        },
+        "seed.confirm.title": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        },
+        "seed.label": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        }
+    },
+    "common/dev_menu.pl.yml": {
+        "seed.confirm.accept": {
+            "hash": "8f70df2a7a1437cca534ddcc33c18342",
+            "engine": "syrtis"
+        },
+        "seed.confirm.message": {
+            "hash": "a4024cbb8fcabebdaf9d26b628614666",
+            "engine": "syrtis"
+        },
+        "seed.confirm.title": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        },
+        "seed.label": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        }
+    },
+    "common/dev_menu.pt_BR.yml": {
+        "seed.confirm.accept": {
+            "hash": "8f70df2a7a1437cca534ddcc33c18342",
+            "engine": "syrtis"
+        },
+        "seed.confirm.message": {
+            "hash": "a4024cbb8fcabebdaf9d26b628614666",
+            "engine": "syrtis"
+        },
+        "seed.confirm.title": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        },
+        "seed.label": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        }
+    },
+    "common/dev_menu.ru.yml": {
+        "seed.confirm.accept": {
+            "hash": "8f70df2a7a1437cca534ddcc33c18342",
+            "engine": "syrtis"
+        },
+        "seed.confirm.message": {
+            "hash": "a4024cbb8fcabebdaf9d26b628614666",
+            "engine": "syrtis"
+        },
+        "seed.confirm.title": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        },
+        "seed.label": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        }
+    },
+    "common/dev_menu.th.yml": {
+        "seed.confirm.accept": {
+            "hash": "8f70df2a7a1437cca534ddcc33c18342",
+            "engine": "syrtis"
+        },
+        "seed.confirm.message": {
+            "hash": "a4024cbb8fcabebdaf9d26b628614666",
+            "engine": "syrtis"
+        },
+        "seed.confirm.title": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        },
+        "seed.label": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        }
+    },
+    "common/dev_menu.tr.yml": {
+        "seed.confirm.accept": {
+            "hash": "8f70df2a7a1437cca534ddcc33c18342",
+            "engine": "syrtis"
+        },
+        "seed.confirm.message": {
+            "hash": "a4024cbb8fcabebdaf9d26b628614666",
+            "engine": "syrtis"
+        },
+        "seed.confirm.title": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        },
+        "seed.label": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        }
+    },
+    "common/dev_menu.ur.yml": {
+        "seed.confirm.accept": {
+            "hash": "8f70df2a7a1437cca534ddcc33c18342",
+            "engine": "syrtis"
+        },
+        "seed.confirm.message": {
+            "hash": "a4024cbb8fcabebdaf9d26b628614666",
+            "engine": "syrtis"
+        },
+        "seed.confirm.title": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        },
+        "seed.label": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        }
+    },
+    "common/dev_menu.vi.yml": {
+        "seed.confirm.accept": {
+            "hash": "8f70df2a7a1437cca534ddcc33c18342",
+            "engine": "syrtis"
+        },
+        "seed.confirm.message": {
+            "hash": "a4024cbb8fcabebdaf9d26b628614666",
+            "engine": "syrtis"
+        },
+        "seed.confirm.title": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        },
+        "seed.label": {
+            "hash": "db97ea447d51ed0e2605d2ef96a11b91",
+            "engine": "syrtis"
+        }
+    },
     "common/dev_menu.zh.yml": {
         "seed.confirm.accept": {
             "hash": "8f70df2a7a1437cca534ddcc33c18342",
