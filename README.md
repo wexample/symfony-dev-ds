@@ -1,6 +1,6 @@
 # symfony-dev-ds
 
-Version: 2.0.6
+Version: 2.0.7
 
 `wexample/symfony-dev-ds` is the design-system side of `wexample/symfony-dev`, registered in the `dev` and `test` environments like it. It adds one entry to the development menu of `symfony-design-system`: « reload the demonstration data », which posts to `symfony-dev`'s `dev_seed` route.
 
@@ -28,10 +28,10 @@ The suite includes packages for configuration management, file handling, prompts
 ## Dependencies
 
 - php: >=8.5
-- wexample/symfony-design-system: >=37.0.0
+- wexample/symfony-design-system: >=38.0.0
 - wexample/symfony-dev: >=6.0.0
 - wexample/symfony-helpers: >=17.0.0
-- wexample/symfony-loader: >=23.2.0
+- wexample/symfony-loader: >=23.3.0
 
 ## Versioning & Compatibility Policy
 
