@@ -1,7 +1,7 @@
 {
   "name": "wexample/symfony-dev-ds",
   "description": "Design-system side of symfony-dev: the development menu entry reloading the demonstration data",
-  "version": "2.0.16",
+  "version": "2.0.17",
   "type": "library",
   "license": "MIT",
   "autoload": {
@@ -20,7 +20,7 @@
     "wexample/symfony-design-system": ">=41.0.0",
     "wexample/symfony-dev": ">=6.0.5",
     "wexample/symfony-helpers": ">=19.1.0",
-    "wexample/symfony-loader": ">=26.0.0"
+    "wexample/symfony-loader": ">=26.1.0"
   },
   "repositories": [
     {
