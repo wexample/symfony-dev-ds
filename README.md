@@ -1,6 +1,6 @@
 # symfony-dev-ds
 
-Version: 2.0.21
+Version: 2.0.22
 
 Design-system side of symfony-dev: the development menu entry reloading the demonstration data
 
